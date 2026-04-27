@@ -2,13 +2,13 @@
 
 A sleek, production-grade weather app built with React, Tailwind CSS, and Framer Motion.
 
-**Live Demo:** https://agussatria.github.io/skywatcher
+**Live Demo :** https://agussatria.github.io/skywatcher
 
 ---
 
 ## ✨ Features
 
-- 📍 Auto-detect location via Geolocation API
+- 📍 Auto detect location via Geolocation API
 - 🔍 City search with autocomplete
 - 🌡️ Toggle between °C and °F
 - ⛅ Real-time weather with animated icons
@@ -65,18 +65,6 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🌐 Deploy to GitHub Pages
-
-```bash
-npm run deploy
-```
-
-This will build the project and push to the `gh-pages` branch automatically.
-
-> Make sure your `vite.config.js` has `base: '/skywatcher/'` set to your repo name.
 
 ---
 
